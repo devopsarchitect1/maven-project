@@ -1,3 +1,4 @@
-/**package-info.java file
+/**
+ * This is a package name.
 */
 package com.example;
