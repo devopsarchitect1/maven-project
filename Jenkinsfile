@@ -14,6 +14,8 @@ pipeline {
         stage('--package--') {
             steps {
                 sh "mvn package"
+                sh "docker build . -t tomcatwebapp:${env.BUILD_ID}"
+
             }
         }
     }
