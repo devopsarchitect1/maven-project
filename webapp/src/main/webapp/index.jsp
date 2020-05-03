@@ -1,1 +1,1 @@
-Hello, World jsp file add test add docker image devops step ,date 04,28.10.02,2020.
+Hello, World jsp file add test ariractory deploy devops step ,date 05,012020.
