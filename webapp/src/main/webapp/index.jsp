@@ -1,1 +1,1 @@
-Hello, World jsp file add test jenkinsfile deploy devops step ,date 12.28,am,06,29,2020.
+Hello, World jsp file add test jenkinsfile migarte gitlab devops step ,date 10-12-2020.
